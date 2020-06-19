@@ -1,49 +1,27 @@
 {
-  "message": "Chinese App List",
-  "status": true,
-  "status_code": 200,
-  "applist": [
-    {
-      "id": 1,
-      "url": "Hero",
-      "app_name": "msrmsr621@gmail.com",
-      "app_size": null,
-      "app_button_name": null
-    },
-    {
-      "id": 1,
-      "url": "Hero",
-      "app_name": "msrmsr621@gmail.com",
-      "app_size": null,
-      "app_button_name": null
-    },
-    {
-      "id": 1,
-      "url": "Hero",
-      "app_name": "msrmsr621@gmail.com",
-      "app_size": null,
-      "app_button_name": null
-    },
-    {
-      "id": 1,
-      "url": "Hero",
-      "app_name": "msrmsr621@gmail.com",
-      "app_size": null,
-      "app_button_name": null
-    },
-    {
-      "id": 1,
-      "url": "Hero",
-      "app_name": "msrmsr621@gmail.com",
-      "app_size": null,
-      "app_button_name": null
-    },
-    {
-      "id": 1,
-      "url": "Hero",
-      "app_name": "msrmsr621@gmail.com",
-      "app_size": null,
-      "app_button_name": null
-    }
-  ]
+	"message": "Chinese App List",
+	"status": true,
+	"status_code": 200,
+	"applist": [{
+			"id": 1,
+			"url": "https://lh3.googleusercontent.com/TsPdiLBSCwQ_5tMNNTZElak9X4SBEgyQnK3q3hE99C2hbYMsov4dQK_FmRNyhf64wXpO=s180-rw",
+			"app_name": "TikTok",
+			"app_size": "90 MB",
+			"app_button_name": "Replace"
+		},
+		{
+			"id": 1,
+			"url": "https://lh3.googleusercontent.com/TsPdiLBSCwQ_5tMNNTZElak9X4SBEgyQnK3q3hE99C2hbYMsov4dQK_FmRNyhf64wXpO=s180-rw",
+			"app_name": "TikTok",
+			"app_size": "90 MB",
+			"app_button_name": "Replace"
+		},
+		{
+			"id": 1,
+			"url": "https://lh3.googleusercontent.com/TsPdiLBSCwQ_5tMNNTZElak9X4SBEgyQnK3q3hE99C2hbYMsov4dQK_FmRNyhf64wXpO=s180-rw",
+			"app_name": "TikTok",
+			"app_size": "90 MB",
+			"app_button_name": "Replace"
+		}
+	]
 }
