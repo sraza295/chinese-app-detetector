@@ -2,7 +2,7 @@
   "message": "Chinese App List",
   "status": true,
   "status_code": 200,
-  "subscriber": [
+  "applist": [
     {
       "id": 1,
       "url": "Hero",
