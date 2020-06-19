@@ -8,21 +8,24 @@
       "url": "https://lh3.googleusercontent.com/TsPdiLBSCwQ_5tMNNTZElak9X4SBEgyQnK3q3hE99C2hbYMsov4dQK_FmRNyhf64wXpO=s180-rw",
       "app_name": "TikTok",
       "app_size": "90 MB",
-      "app_button_name": "Replace"
+      "app_button_name": "Replace",
+      "package_name":"com.zhiliaoapp.musically"
     },
     {
       "id": 1,
       "url": "https://lh3.googleusercontent.com/TsPdiLBSCwQ_5tMNNTZElak9X4SBEgyQnK3q3hE99C2hbYMsov4dQK_FmRNyhf64wXpO=s180-rw",
       "app_name": "TikTok",
       "app_size": "90 MB",
-      "app_button_name": "Replace"
+      "app_button_name": "Replace",
+      "package_name":"com.zhiliaoapp.musically"
     },
     {
       "id": 1,
       "url": "https://lh3.googleusercontent.com/TsPdiLBSCwQ_5tMNNTZElak9X4SBEgyQnK3q3hE99C2hbYMsov4dQK_FmRNyhf64wXpO=s180-rw",
       "app_name": "TikTok",
       "app_size": "90 MB",
-      "app_button_name": "Replace"
+      "app_button_name": "Replace",
+      "package_name":"com.zhiliaoapp.musically"
     }
   ]
 }
